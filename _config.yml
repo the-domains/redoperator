@@ -1,7 +1,7 @@
 name: redoperator
 favicon: null
-layout_spectrum: 0.79178556217812
-typography_spectrum: 0.7898614259902388
+layout_spectrum: 0.23283
+typography_spectrum: 0.11558
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.32073142449371517
-  lightness: 0.8798160769511014
+  brandStrength: 0.3125
+  lightness: 0.8125
   saturation: 0.9997610924765468
   rhythmicContrast: 0.8401811798103154
 purpose: []
