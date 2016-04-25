@@ -1,7 +1,7 @@
 name: redoperator
 favicon: null
 layout_spectrum: 0.23283
-typography_spectrum: 0.11558
+typography_spectrum: 0.30989
 title: RED Operator » RED + Steadicam Operator - Lucas Tucknott
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#191f2b'
+    - '#3f4f57'
+    - '#566767'
+    - '#959783'
+    - '#cfcdb9'
   brandStrength: 0.3125
   lightness: 0.8125
   saturation: 0.9997610924765468
